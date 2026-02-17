@@ -160,7 +160,7 @@
   "aggregations": {
     "home": {
       "count": 4,
-      "inventoryValue": 58515.84
+      "inventoryValue": 60531.46
     },
     "books": {
       "count": 7,
